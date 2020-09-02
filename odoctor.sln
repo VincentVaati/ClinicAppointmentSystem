@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odoctor.UI.blazor", "odoctor.UI.blazor\odoctor.UI.blazor.csproj", "{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odoctorcore", "odoctorcore\odoctorcore.csproj", "{35151F1D-7065-4E58-AB1D-00CAF770D319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|x64.Build.0 = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Debug|x86.Build.0 = Debug|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|x64.ActiveCfg = Release|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|x64.Build.0 = Release|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|x86.ActiveCfg = Release|Any CPU
+		{604756E4-EFE5-4EA5-B3FE-5FF27D98453D}.Release|x86.Build.0 = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|x64.Build.0 = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Debug|x86.Build.0 = Debug|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|x64.ActiveCfg = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|x64.Build.0 = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|x86.ActiveCfg = Release|Any CPU
+		{9ACC8E2C-8989-4D6E-9FE8-30C9D5524C00}.Release|x86.Build.0 = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|x64.Build.0 = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Debug|x86.Build.0 = Debug|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|x64.ActiveCfg = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|x64.Build.0 = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|x86.ActiveCfg = Release|Any CPU
+		{35151F1D-7065-4E58-AB1D-00CAF770D319}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9605BE-9F32-4947-800E-D0E1A3693DDD}
+	EndGlobalSection
+EndGlobal
